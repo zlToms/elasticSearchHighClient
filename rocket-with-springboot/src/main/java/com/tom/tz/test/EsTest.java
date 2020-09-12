@@ -42,4 +42,9 @@ public class EsTest {
 
         System.out.println(index.getId());
     }
+
+
+    public void test02(){
+        System.out.println(123);
+    }
 }
