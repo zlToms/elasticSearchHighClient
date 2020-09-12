@@ -45,6 +45,6 @@ public class EsTest {
 
 
     public void test02(){
-        System.out.println(123456);
+        System.out.println(1234567);
     }
 }
